@@ -23,7 +23,6 @@ O objetivo do projeto foi criar uma interface moderna e acessível, utilizando H
 - CSS3
 - Flexbox
 - Animações e transições CSS
-- JavaScript (scroll animation nas categorias)
 
 ---
 ## desenvolvedor
